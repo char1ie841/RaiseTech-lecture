@@ -1,15 +1,11 @@
 # lecture02の学習内容
 - バージョン管理システム
 
-* コマンド
-git clone
-git pull
-git add
-git commit
-git push
+- コマンド  
+git clone, git pull, git add, git commit, git push  
 コマンドや管理の方法などは開発において重要だとわかったので、
 よく使うものから覚えていく。
 
-* 用語
-ブランチ、プッシュ、プルリクエスト、マージ
+* 用語  
+ブランチ、プッシュ、プルリクエスト、マージ  
 聞いてわかるようにする。
