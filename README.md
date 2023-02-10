@@ -1,1 +1,1 @@
-# RaiseTech-lecture02
+# RaiseTech-lecture
