@@ -4,7 +4,7 @@
 <img width="296" alt="スクリーンショット 2023-02-10 192510" src="https://user-images.githubusercontent.com/79340862/218073268-8297eada-1660-442b-9dd0-be23c5790c79.png">
 
 - APサーバーを終了させた場合、引き続きアクセスできますか? 結果を確認して、またAPサーバーを起動してください。  
-できません。  
+**できません。**  
 
 APサーバー停止  
 <img width="756" alt="スクリーンショット 2023-02-10 192649" src="https://user-images.githubusercontent.com/79340862/218073803-0589b0cb-74db-4b55-8b40-1d88ca8ba754.png">
@@ -17,7 +17,7 @@ APサーバー起動
 <img width="260" alt="スクリーンショット 2023-02-10 194007" src="https://user-images.githubusercontent.com/79340862/218074070-8c592f75-62a6-4402-a979-ac317a11dbb4.png">
 
 - DBサーバーを終了させた場合、引き続きアクセスできますか?  
-できません。  
+**できません。**  
 
 DBサーバー停止  
 <img width="657" alt="スクリーンショット 2023-02-10 194203" src="https://user-images.githubusercontent.com/79340862/218074140-60532889-9f4a-486a-a2c0-3b1b415f3db3.png">
